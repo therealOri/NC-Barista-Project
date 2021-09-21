@@ -16,6 +16,6 @@ __ __
 <br />
 
 # Review
-> 10/21/21
+> 9/21/21
 
 In this video we were tasked to make an automated python3 barista. To make it have a menu as a variable, give the user/customer the menu, ask them what they want from said menu, take and receive the information they give the barista, and then tell them whatever item they selected will be right up.
