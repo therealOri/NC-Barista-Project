@@ -1,11 +1,11 @@
 #START
 
-# Imports for fance and smooth terminal stuffs.
+# Imports for fancy and smooth terminal stuffs.
 import time
 import sys
 import os
 
-# Defining clear(). So I don't have to type type os.system('clear||cls') so much. It also looks better.
+# Defining clear(). So I don't have to type type "os.system('clear||cls')" so much. It also looks better.
 def clear():
     os.system('clear||cls')
 
@@ -33,7 +33,8 @@ print(f"Welcome {name}! Please choose from our menu below what you would like!")
 print(menu)
 
 
-# Making sure it keeps looping if you enter any number hiher than how many items on our menu we have or the number 0. If a number 1-4 gets entered, then it'll break the loop and continue.
+# Making sure it keeps looping if you enter any number higher than 4/how many items we have on our menu. Or if #the number is 0. 
+# If numbers 1-4 gets entered, then it'll break the loop and continue.
 while True:
     option = input("Option: ")
 
