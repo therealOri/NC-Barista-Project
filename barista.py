@@ -33,7 +33,7 @@ print(f"Welcome {name}! Please choose from our menu below what you would like!")
 print(menu)
 
 
-# Making sure it keeps looping if you enter any number higher than 4/how many items we have on our menu. Or if #the number is 0. 
+# Making sure it keeps looping if you enter any number higher than 4/how many items we have on our menu. Or if the number is 0. 
 # If numbers 1-4 gets entered, then it'll break the loop and continue.
 while True:
     option = input("Option: ")
