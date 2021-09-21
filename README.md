@@ -1,4 +1,4 @@
-# NWC-Barista-Project
+# NC-Barista-Project
 Python3 project made for Network Chuck's Python3 series on youtube!
 __ __
 <br />
