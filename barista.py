@@ -5,7 +5,7 @@ import time
 import sys
 import os
 
-# Defining clear(). So I don't have to type type "os.system('clear||cls')" so much. It also looks better.
+# Defining clear(). So I don't have to type "os.system('clear||cls')" so much. It also looks better.
 def clear():
     os.system('clear||cls')
 
