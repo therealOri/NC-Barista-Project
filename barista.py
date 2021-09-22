@@ -76,7 +76,7 @@ while True:
 # Counts down from 15. I did not make this counter. I found it here: https://stackoverflow.com/a/5853003/15114290. So...credits to them!
 for remaining in range(15, 0, -1):
     sys.stdout.write("\r")
-    sys.stdout.write("{:2d} seconds remaining.".format(remaining)) 
+    sys.stdout.write("[{:2d}] seconds remaining.".format(remaining)) 
     sys.stdout.flush()
     time.sleep(1)
 
