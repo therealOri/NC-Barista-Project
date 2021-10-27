@@ -20,4 +20,4 @@ __ __
 # Review
 > 9/21/21
 
-In this video we were tasked to make an automated python3 barista. To make it have a menu as a variable, give the user/customer the menu, ask them what they want from said menu, take and receive the information they give the barista, and then tell them whatever item they selected will be right up.
+In these videos we were tasked to make an automated python3 barista. To make it have a menu, ask users what they want from said menu, take and receive the information they give the barista, and then tell them whatever item they selected will be right up. This repo will be getting updated more as lessons/projects come out and we are asked to do more.
