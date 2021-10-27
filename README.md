@@ -7,7 +7,9 @@ __ __
 
 # Network Chuck
 
-> [Youtube Video](https://www.youtube.com/watch?v=IXr0-J5XXMA&t).
+> [Youtube\Episode 2](https://www.youtube.com/watch?v=IXr0-J5XXMA&t).
+
+> [Youtube\Episode 3](https://youtu.be/T6OLDHAWjjA)
 
 > [His Youtube Channel](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ).
 
